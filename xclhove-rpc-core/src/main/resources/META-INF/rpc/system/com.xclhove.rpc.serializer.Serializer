@@ -1,0 +1,3 @@
+com.xclhove.rpc.serializer.JdkSerializer
+com.xclhove.rpc.serializer.JsonSerializer
+com.xclhove.rpc.serializer.HessianSerializer

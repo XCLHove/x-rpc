@@ -1,0 +1,2 @@
+com.xclhove.rpc.fault.tolerant.FailFastTolerantStrategy
+com.xclhove.rpc.fault.tolerant.FailSafeTolerantStrategy

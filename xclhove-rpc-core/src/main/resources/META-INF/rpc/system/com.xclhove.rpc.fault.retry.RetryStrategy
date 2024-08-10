@@ -1,0 +1,2 @@
+com.xclhove.rpc.fault.retry.NoRetryStrategy
+com.xclhove.rpc.fault.retry.FixedIntervalRetryStrategy
