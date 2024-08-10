@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: info
+    org.apache.zookeeper: warn
+spring:
+  main:
+    banner-mode: off
